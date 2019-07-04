@@ -35,14 +35,14 @@ let s:gui08        = "E93C58"
 let g:base16_gui08 = "E93C58"
 let s:gui09        = "E58D7D"
 let g:base16_gui09 = "E58D7D"
-let s:gui0A        = "EFB993"
-let g:base16_gui0A = "EFB993"
-let s:gui0B        = "7CC844"
-let g:base16_gui0B = "7CC844"
+let s:gui0A        = "e8c03f"
+let g:base16_gui0A = "e8c03f"
+let s:gui0B        = "95d265"
+let g:base16_gui0B = "95d265"
 let s:gui0C        = "24A8B4"
 let g:base16_gui0C = "24A8B4"
-let s:gui0D        = "33B5E1"
-let g:base16_gui0D = "33B5E1"
+let s:gui0D        = "67c1e6"
+let g:base16_gui0D = "67c1e6"
 let s:gui0E        = "B072D1"
 let g:base16_gui0E = "B072D1"
 let s:gui0F        = "E4A382"
@@ -101,17 +101,17 @@ endif
 if has("nvim")
   let g:terminal_color_0 =  "#1C1E26"
   let g:terminal_color_1 =  "#E93C58"
-  let g:terminal_color_2 =  "#7CC844"
-  let g:terminal_color_3 =  "#EFB993"
-  let g:terminal_color_4 =  "#33B5E1"
+  let g:terminal_color_2 =  "#95d265"
+  let g:terminal_color_3 =  "#e8c03f"
+  let g:terminal_color_4 =  "#67c1e6"
   let g:terminal_color_5 =  "#B072D1"
   let g:terminal_color_6 =  "#24A8B4"
   let g:terminal_color_7 =  "#CBCED0"
   let g:terminal_color_8 =  "#6F6F70"
   let g:terminal_color_9 =  "#E93C58"
-  let g:terminal_color_10 = "#7CC844"
-  let g:terminal_color_11 = "#EFB993"
-  let g:terminal_color_12 = "#33B5E1"
+  let g:terminal_color_10 = "#95d265"
+  let g:terminal_color_11 = "#e8c03f"
+  let g:terminal_color_12 = "#67c1e6"
   let g:terminal_color_13 = "#B072D1"
   let g:terminal_color_14 = "#24A8B4"
   let g:terminal_color_15 = "#E3E6EE"
@@ -125,17 +125,17 @@ elseif has("terminal")
   let g:terminal_ansi_colors = [
         \ "#1C1E26",
         \ "#E93C58",
-        \ "#7CC844",
-        \ "#EFB993",
-        \ "#33B5E1",
+        \ "#95d265",
+        \ "#e8c03f",
+        \ "#67c1e6",
         \ "#B072D1",
         \ "#24A8B4",
         \ "#CBCED0",
         \ "#6F6F70",
         \ "#E93C58",
-        \ "#7CC844",
-        \ "#EFB993",
-        \ "#33B5E1",
+        \ "#95d265",
+        \ "#e8c03f",
+        \ "#67c1e6",
         \ "#B072D1",
         \ "#24A8B4",
         \ "#E3E6EE",
